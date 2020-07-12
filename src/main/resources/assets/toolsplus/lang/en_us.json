@@ -1,0 +1,23 @@
+{
+  "itemGroup.toolsplus": "Shiny Gems Materials",
+  "itemGroup.toolsplus": "Shiny Gems Tools",
+
+  "item.toolsplus.ruby": "Ruby",
+  "item.toolsplus.sapphire": "Sapphire",
+
+  "block.toolsplus.ruby_block": "Block of Ruby",
+  "block.toolsplus.ruby_ore": "Ruby Ore",
+  "block.toolsplus.sapphire_block": "Block of Sapphire",
+  "block.toolsplus.sapphire_ore": "Sapphire Ore",
+
+  "item.toolsplus.ruby_sword": "Ruby Sword",
+  "item.toolsplus.ruby_pickaxe": "Ruby Pickaxe",
+  "item.toolsplus.ruby_axe": "Ruby Axe",
+  "item.toolsplus.ruby_shovel": "Ruby Shovel",
+  "item.toolsplus.ruby_hoe": "Ruby Hoe",
+
+  "item.toolsplus.ruby_helmet": "Ruby Helmet",
+  "item.toolsplus.ruby_chestplate": "Ruby Chestplate",
+  "item.toolsplus.ruby_leggings": "Ruby Leggings",
+  "item.toolsplus.ruby_boots": "Ruby Boots"
+}
